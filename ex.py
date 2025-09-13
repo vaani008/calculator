@@ -188,7 +188,10 @@ if sorted(set1)==sorted(set2):
     print("yes")
 else:
     print("no")
+
+print("HEHEHE OMG OMG SOO MUCH CODE WAAAW")
     
+
 
 
  
